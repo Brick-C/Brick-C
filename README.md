@@ -16,8 +16,8 @@ A Simple Wanderer into everything Digital. Future Designer & Developer.
 
 
 
-- 🔭 I’m currently working on ... Still Tinkering...
-- 🌱 I’m currently learning ... React
-- 📫 How to reach me: [email](tamjid2077@gmail.com) <br/>
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on -> Still Tinkering...
+- 🌱 I’m currently learning -> React
+- 📫 How to reach me: 
+- ⚡ About Me: Lover of Tea & Biryani
 -->
