@@ -1,6 +1,6 @@
-### Hello there 👋
+<h2 align="left" Hello👋 I am Tamjid
 
-A Simple Wanderer into everything Digital. Future Designer & Developer.
+A Simple Wanderer into everything Digital. Future Designer & Developer
 
 
 <h3 align="left">Connect With Me:</h3>
@@ -17,5 +17,5 @@ A Simple Wanderer into everything Digital. Future Designer & Developer.
 - 🔭 I’m currently working on -> Still Tinkering...
 - 🌱 I’m currently learning -> React
 - 📫 How to reach me -> **tamjid2077@gmail.com**
-- ⚡ About Me -> Lover of Tea & Biryani
+- ⚡ About Me -> A Musafir, Lover of Women, Tea & Biryani
 
