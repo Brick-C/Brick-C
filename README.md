@@ -1,6 +1,6 @@
 <h1> Hello👋 I am Tamjid </h1>
 
-<h2>A Simple Wanderer into everything Digital. Future Designer & Developer</h2> <br/>
+<h2>A simple Wanderer into everything Digital. Future Designer & Developer</h2> <br/>
 
 
 <h3 align="left">Connect With Me:</h3>
