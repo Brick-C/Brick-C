@@ -1,4 +1,4 @@
-<h2 align="left" Hello👋 I am Tamjid
+<h2 align="left" Hello👋 I am Tamjid </h2>
 
 A Simple Wanderer into everything Digital. Future Designer & Developer
 
