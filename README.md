@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tamjid2077@gmail.com**
 
-- ⚡ Fun fact **A Musafir, Lover of Women, Tea & Biryani** 
+- ⚡ Fun fact **A Musafir, Lover of Tea & Biryani** 
 
 
 <br> <h3 align="left">Connect With Me:</h3>
