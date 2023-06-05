@@ -3,13 +3,13 @@
 
 <img align="right" alt="coder" width="400" src="https://th.bing.com/th/id/R.417ebee986aec41629278b1e04cfbfe9?rik=WTtA8f8o5uL7NQ&pid=ImgRaw&r=0"> <br/>
 
-- 🔭 I’m currently working on **Still Tinkering...**
+- 🔭 I’m currently working on: **Still Tinkering...**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning: **React -> Redux**
 
-- 📫 How to reach me **tamjid2077@gmail.com**
+- 📫 How to reach me: **tamjid2077@gmail.com**
 
-- ⚡ Fun fact **A Musafir, Lover of Tea & Biryani** 
+- ⚡ About me -> **A Musafir, Lover of Tea & Biryani** 
 
 
 <br> <h3 align="left">Connect With Me:</h3>
