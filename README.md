@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamjid</h1>
-<h3 align="center">A simple Wanderer into everything Digital. Future Designer & Developer</h3>
+<h3 align="center">A simple Wanderer into everything Digital.</h3>
 
 <img align="right" alt="coder" width="400" src="https://th.bing.com/th/id/R.417ebee986aec41629278b1e04cfbfe9?rik=WTtA8f8o5uL7NQ&pid=ImgRaw&r=0"> <br/>
 
