@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **Still Tinkering...**
 
-- 🌱 I’m currently learning: **Redux -> Next-Js**
+- 🌱 I’m currently learning: **Typescript -> Next-Js**
 
 - 📫 How to reach me: **tamjid2077@gmail.com**
 
