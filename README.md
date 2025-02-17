@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamjid</h1>
 <h3 align="center">A simple Wanderer into everything Digital.</h3>
 
-<img align="right" alt="coder" width="400" src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gifv"> <br/>
+/*<img align="right" alt="coder" width="400" src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gifv"> <br/> */
+<img align="right" alt="coder" width="400" src="vhttps://giffiles.alphacoders.com/362/36227.gif"> <br/>
 
 - 🔭 I’m currently working on: **Still Tinkering...**
 
