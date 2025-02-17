@@ -19,10 +19,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100007404978339)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zman1ac)
 
-### 🍜 **Life Fuel**
+### 🧬 **Life Fuel**
 - ☕ Tea Connoisseur
 - 🍛 Biryani Devotee
-- 🌌 Eternal Space Enthusiast
 
 </div>
 
