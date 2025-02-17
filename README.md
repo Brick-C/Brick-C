@@ -46,7 +46,6 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=brick-c&show_icons=true&theme=radical&count_private=true">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brick-c&layout=compact&theme=radical">
 </div>
 
