@@ -1,5 +1,4 @@
-<h1 align="center">🌟 Welcome to My Digital Realm! 🌟</h1>
-<h3 align="center">⚡ "A Wanderer Exploring the Digital Universe" ⚡</h3>
+<h1 align="center">⚡ "A Wanderer Exploring the Digital Universe" ⚡</h1>
 
 <div align="center">
   <img align="right" alt="coder" width="380" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_ob4wyigmTV1v8xd18o1_500.gifv">
