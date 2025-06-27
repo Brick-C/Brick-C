@@ -10,7 +10,7 @@
 
 ### 🚀 **Current Endeavors**
 - 🔭 **Project:** _Tinkering with secret innovations..._ 🛠️
-- 🌱 **Learning:** Mastering the TypeScript → Next.js pipeline 📚
+- 🌱 **Learning:** Next.js -> AI
 - 🎯 **Goal:** Building performant, beautiful web experiences ✨
 
 ### 📬 **Connect With Me**
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
