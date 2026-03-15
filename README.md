@@ -26,15 +26,12 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brick-c&layout=compact&theme=radical">
 </div>
 
 <br>
 
-<h2 align="center">☕ Fuel My Coding Sessions</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/A.Nomad">
     <img width="220" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
